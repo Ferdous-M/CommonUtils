@@ -9,5 +9,5 @@ public class RideEventDTO {
     private Double destinationLat;
     private Double destinationLng;
     private String preferences;
-    private long timestamp;
+    //private long timestamp;
 }
